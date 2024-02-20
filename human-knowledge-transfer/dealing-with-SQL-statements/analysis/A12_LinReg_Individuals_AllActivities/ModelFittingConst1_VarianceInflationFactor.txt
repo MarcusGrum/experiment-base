@@ -1,0 +1,5 @@
+   VIF Factor                features
+0    8.066952               Intercept
+1    1.045690  Input_Competence_total
+2    1.102831        Input_Stickiness
+3    1.120516        Input_Complexity

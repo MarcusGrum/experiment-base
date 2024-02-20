@@ -1,0 +1,11 @@
+                        Input_Competence_total  Input_Stickiness  \
+Input_Competence_total                1.000000          0.092091   
+Input_Stickiness                      0.092091          1.000000   
+Input_Complexity                     -0.155338          0.273300   
+Output_Time                          -0.265337         -0.285958   
+
+                        Input_Complexity  Output_Time  
+Input_Competence_total         -0.155338    -0.265337  
+Input_Stickiness                0.273300    -0.285958  
+Input_Complexity                1.000000     0.148424  
+Output_Time                     0.148424     1.000000  
